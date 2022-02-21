@@ -4,9 +4,9 @@ Project with NLP topic
 ### 이 저장소(Repository)는 「NLP Going Deeper 과정」에 대한 자료를 다루고 있습니다.
 
 ***
-작성자: MRSYS
+작성자: 송영석
 
-최종 수정일: 2022-02-03
+
 
 + 학습 기간: 2021-12-14 ~ 2022-01-23
 
