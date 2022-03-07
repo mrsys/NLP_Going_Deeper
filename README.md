@@ -1,10 +1,10 @@
 # NLP_Going_Deeper
 Project with NLP topic
 
-### 이 저장소(Repository)는 「NLP Going Deeper 과정」에 대한 자료를 다루고 있습니다.
+### 이 저장소(Repository)는 「NLP Going Deeper 과정」에 대한 Baseline 코드와 학습에 도움되는 자료를 다루고 있습니다.
 
 ***
-작성자: 송영석
+
 
 
 
